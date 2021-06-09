@@ -226,6 +226,9 @@ fabric.properties
 # https://plugins.jetbrains.com/plugin/12206-codestream
 .idea/codestream.xml
 
+# to resolve an issue about committing files from the .idea directory
+/.idea
+
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
